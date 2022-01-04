@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 200px;
 }
 .first-w{
     width: 50%;
@@ -17,7 +18,7 @@ section{
 }
 .first-w img{
     width: 500px;
-    padding-left:300px;
+    padding-left:220px;
 }
 .link-button{
     text-decoration: none;
@@ -30,4 +31,11 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    padding: 10px 80px ;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
