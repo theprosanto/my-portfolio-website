@@ -15,6 +15,7 @@ section{
 .first-w{
     width: 50%;
     padding-left: 2%;
+    padding-right: 200px;
 }
 .first-w img{
     width: 500px;
