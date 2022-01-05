@@ -48,9 +48,23 @@ h1{
     padding-right: 20px;
     box-shadow: 10px 10px 40px grey;
     
+    
 }
 .experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+footer p{
+    text-align: center;
+}
+#babywebdeveloper{
+    border-left: 7px solid;
+    border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
+    border-image-slice: 1;
+}
+#fullstackdeveloper{
+    border-left: 7px solid;
+    border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
+    border-image-slice: 1;
 }
